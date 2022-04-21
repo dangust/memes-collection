@@ -6,7 +6,7 @@
     "@terra-money/terrain": "0.1.0"
   },
   "workspaces": [
-    "frontend"
+    "memes-collection/*"
   ],
   "author": "",
   "license": "ISC"

@@ -17,9 +17,9 @@
           }
         },
         "instantiateMsg": {
-          "name":"NFT Collection Name",
-          "symbol":"NFTSYMBOL",
-          "minter":"terraxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+          "name":"Memes collection",
+          "symbol":"Memes",
+          "minter":"terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8"
         }
       }
     }
